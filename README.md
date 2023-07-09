@@ -1,4 +1,4 @@
-## Hi 👋, I'm Michael Margida
+## Hi 👋 I'm Michael Margida
 [![Gmail Badge](https://img.shields.io/badge/-mmargida@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mmargida@gmail.com)](mailto:mmargida@gmail.com) 
 [![Github Badge](https://img.shields.io/badge/-AcePine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AcePine/)](https://www.github.com/AcePine/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/AcePine/)](https://github.com/AcePine/) <p align='left'> ## I help companies use data to answer critical questions and better serve their customers!
 

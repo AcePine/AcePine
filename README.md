@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Michael
 [![Gmail Badge](https://img.shields.io/badge/-mmargida@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mmargida@gmail.com)](mailto:mmargida@gmail.com) 
-[![Github Badge](https://img.shields.io/badge/-AcePine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AcePine/)](https://www.github.com/AcePine/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/AcePine/)](https://github.com/AcePine/) <p align='left'> ## I help companies use data to answer critical questions and better serve their customers!
+[![Github Badge](https://img.shields.io/badge/-AcePine-grey?style=flat&logo=github&logoColor=white&link=https://github.com/AcePine/)](https://www.github.com/AcePine/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/AcePine/)](https://github.com/AcePine/) <p align='left'> I help companies use data to answer critical questions and better serve their customers!
 
 I have a strong background in customer experience and project management. I recently graduated TripleTen's Data Analysis bootcamp! During my time I helped fellow students with assignments and projects. The TripleTen curriculum provides a wide range of projects based on the following technologies: Python, SQL, Exploratory Data Analysis, Statistical Data Analysis, Tableau, Git/Github, and much more.
 
